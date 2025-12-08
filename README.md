@@ -6,6 +6,7 @@ This project provides an end-to-end AI forecasting pipeline using:
 - Inventory analytics (Safety Stock, Reorder Point)
 - Advanced AI Recommendation Engine
 - Streamlit front-end dashboard
+- 💻 Try it live:https://lnkd.in/g9w5jrvH
 
 ---
 
@@ -40,7 +41,7 @@ A UI for:
 - View KPIs
 - Plot top 5 SKUs (MAPE / Stockout / Overstock)
 - Export results with recommendations
-
+ 
 ---
 
 
